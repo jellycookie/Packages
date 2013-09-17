@@ -2,7 +2,7 @@
 	"installed_packages":
 	[
 		"HTML-CSS-JS Prettify",
-		"Jedi - Python autocompletion",
-		"Python PEP8 Autoformat"
+		"Python PEP8 Autoformat",
+		"SublimePythonIDE"
 	]
 }
